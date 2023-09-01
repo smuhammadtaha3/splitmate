@@ -16,11 +16,9 @@
      - dolor ratione! Veniam saepe voluptas temporibus.
 
 ## Demo No. 3 :-
-**This is Foodmate Website** 
+**This is Splitmate Website** 
 How to Create a Github Docs, Follow this link[GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## Demo No. 4 :-
-![Pancakes,A Real Taste of Life](https://www.pexels.com/photo/pancake-with-sliced-strawberry-376464/)
 
 # Mentioned Peolpes :-
 @GitHub/Docs
